@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**Danilo-ItBr/Danilo-ItBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Olá, eu sou Danilo!
 
 **Analista de Dados** | **Empresário de Impressão 3D** | **Estudante de Engenharia Mecânica**
@@ -46,11 +29,11 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Minha Atividade no GitHub
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-ItBr&show_icons=true&theme=dark&locale=pt-br)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Danilo-ItBr&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-ItBr&layout=compact&theme=dark&locale=pt-br)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Danilo-ItBr&theme=react-dark)
 
 ---
 
