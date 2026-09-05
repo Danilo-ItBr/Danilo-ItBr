@@ -48,9 +48,9 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ## 📈 Estatísticas do GitHub
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&locale=pt-br)
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-ItBr&show_icons=true&theme=dark&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-ItBr&layout=compact&theme=dark&locale=pt-br)
 
 ---
 
