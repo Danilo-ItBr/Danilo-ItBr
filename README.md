@@ -31,7 +31,11 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ## 📊 Minha Atividade no GitHub
 
+## 📊 Minhas Estatísticas
+
 ![Danilo's GitHub stats](https://github-readme-stats-mu-topaz-49.vercel.app/api?username=Danilo-ItBr&show_icons=true&theme=dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats-mu-topaz-49.vercel.app/api/top-langs/?username=Danilo-ItBr&layout=compact&theme=dark&locale=pt-br)
 
 ![GitHub Streak](https://github-readme-stats-mu-topaz-49.vercel.app/api/streak-stats?user=Danilo-ItBr&theme=dark&locale=pt-br)
 
