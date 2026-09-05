@@ -33,7 +33,7 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Danilo-ItBr&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Danilo-ItBr&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danilo-ItBr&theme=react-dark)
 
 ---
 
