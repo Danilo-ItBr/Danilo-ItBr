@@ -31,11 +31,11 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ## 📊 Minhas Estatísticas
 
-![Danilo's GitHub stats](https://github-readme-stats-mu-topaz-49.vercel.app/api?username=Danilo-ItBr&show_icons=true&theme=dark&locale=pt-br)
+![Danilo's GitHub stats](https://github-readme-stats-mu-topaz-49.vercel.app/api?username=Danilo-ItBr&show_icons=true&theme=dracula&locale=pt-br)
 
-![Top Langs](https://github-readme-stats-mu-topaz-49.vercel.app/api/top-langs/?username=Danilo-ItBr&layout=compact&theme=dark&locale=pt-br)
+![Top Langs](https://github-readme-stats-mu-topaz-49.vercel.app/api/top-langs/?username=Danilo-ItBr&layout=compact&theme=dracula&locale=pt-br)
 
-![GitHub Streak](https://github-readme-streak-stats-theta-indol.vercel.app/?user=Danilo-ItBr&theme=dark&locale=pt-br)
+![GitHub Streak](https://github-readme-streak-stats-theta-indol.vercel.app/?user=Danilo-ItBr&theme=dracula&locale=pt-br)
 
 ---
 
