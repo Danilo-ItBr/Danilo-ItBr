@@ -24,6 +24,10 @@ No empreendedorismo, lidero uma empresa de **impressão 3D**, onde também desen
 ### 🤖 Inteligência Artificial
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-10217E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Agentes de IA](https://img.shields.io/badge/Agentes%20de%20IA-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚙️ Automação
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🖨️ Impressão 3D & Engenharia
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
@@ -51,15 +55,36 @@ No empreendedorismo, lidero uma empresa de **impressão 3D**, onde também desen
 - **Projeto 1** — [Breve descrição do projeto de análise de dados]
 - **Projeto 2** — [Breve descrição de outro projeto]
 
+### 🤖 Agentes de IA
+- **Agente de Estudos (DIO)** — [Adaptação do agente de IA da DIO para apoiar meus estudos de dados e engenharia]
+- **Assistente de Análise** — [Agente que automatiza consultas e gera insights a partir de dados]
+
 ### 🖨️ Impressão 3D
 - **App da Empresa** — [Aplicativo em desenvolvimento para gestão da operação de impressão 3D]
 - **Projeto 3D** — [Breve descrição de um projeto de fabricação digital]
 
 ---
 
+## 🎓 Formação e Certificações
+
+### 🎓 Formação Acadêmica
+- **Ciência de Dados** — Graduação · [Instituição] · Concluído
+- **Engenharia Mecânica** — Graduação · [Instituição] · Em andamento
+- **Técnico em Mecânica** — Formação técnica · [Instituição] · Concluído
+
+### 📜 Cursos e Certificações
+- **Santander 2026 — Automação com N8N** — DIO · Em andamento
+- **Yellow Belt** — [Instituição] · Concluído
+- **Machine Learning** — [Curso/Instituição] · [Ano]
+- **Agentes de IA** — DIO · Em andamento
+
+---
+
 ## 🎯 O que estou fazendo atualmente
 
 - 🔭 Estudando **Engenharia Mecânica** e aprofundando em **Machine Learning**
+- 🤖 Explorando **agentes de IA** para automatizar análises e processos
+- 🔄 Aprendendo **automação com N8N** (Santander 2026 · DIO) para otimizar fluxos de dados e processos
 - 🌱 Desenvolvendo um **aplicativo para minha empresa de impressão 3D**
 - 👯 Aberto a colaborações em projetos de **dados**, **engenharia** e **tecnologia aplicada**
 - ⚙️ Aplicando **IA** para otimizar análises e processos do dia a dia
