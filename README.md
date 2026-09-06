@@ -20,7 +20,7 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-10217E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🖨️ Impressão 3D & Engenharia
-![3D Printing](https://img.shields.io/badge/Impressão%203D-FF5722?style=for-the-badge&logo=3d&logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
 ![Fusion](https://img.shields.io/badge/Fusion-00599C?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 🧰 Outros
