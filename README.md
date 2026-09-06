@@ -1,8 +1,14 @@
 # 👋 Olá, eu sou Danilo!
 
-**Analista de Dados** | **Empresário de Impressão 3D** | **Estudante de Engenharia Mecânica**
+**Analista de Dados** | **Power BI & DAX** | **Empresário de Impressão 3D** | **Estudante de Eng. Mecânica**
 
-Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atuo como Analista de Dados e tenho ampla experiência em **planejamento de manutenção de grandes obras**. No empreendedorismo, lidero uma empresa de **impressão 3D**, onde também desenvolvo um aplicativo para otimizar a operação. Uso inteligência artificial diariamente para potencializar análises e processos.
+Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, tenho **mais de 20 anos de experiência em Planejamento e Controle de Manutenção (PCM)** em empresas nacionais e multinacionais dos setores **alimentício, químico, petroquímico, mineração e cimenteiro** — com forte atuação em **gestão de KPIs** e **planejamento de Grandes Paradas de Manutenção**.
+
+Hoje aplico esse rigor ao **BI**: modelo no **Power BI** e consumo dados preparados no **Azure Databricks** — provenientes de **Primavera, SAP** e outras fontes — para entregar **modelos semânticos claros** e **painéis decisórios** para a gerência de Planejamento de Construção e Montagem.
+
+No empreendedorismo, lidero uma empresa de **impressão 3D**, onde também desenvolvo um **aplicativo** para otimizar a operação. Uso **inteligência artificial** diariamente para potencializar análises e processos.
+
+> 💡 **Meu diferencial:** a fusão entre **chão de fábrica e dados** — conheço a dor, sei quais perguntas importam e construo a resposta no painel, aproximando operação e gestão por meio de indicadores úteis e acionáveis nos níveis **operacional, tático e estratégico**.
 
 ---
 
