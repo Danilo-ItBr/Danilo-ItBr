@@ -29,8 +29,6 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ---
 
-## 📊 Minha Atividade no GitHub
-
 ## 📊 Minhas Estatísticas
 
 ![Danilo's GitHub stats](https://github-readme-stats-mu-topaz-49.vercel.app/api?username=Danilo-ItBr&show_icons=true&theme=dark&locale=pt-br)
