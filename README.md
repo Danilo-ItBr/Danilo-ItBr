@@ -37,7 +37,7 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ![Top Langs](https://github-readme-stats-mu-topaz-49.vercel.app/api/top-langs/?username=Danilo-ItBr&layout=compact&theme=dark&locale=pt-br)
 
-![GitHub Streak](https://github-readme-stats-mu-topaz-49.vercel.app/api/streak-stats?user=Danilo-ItBr&theme=dark&locale=pt-br)
+![GitHub Streak](https://github-readme-streak-stats-theta-indol.vercel.app/?user=Danilo-ItBr&theme=dark&locale=pt-br)
 
 ---
 
