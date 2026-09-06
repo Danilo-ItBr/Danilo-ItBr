@@ -68,8 +68,8 @@ No empreendedorismo, lidero uma empresa de **impressão 3D**, onde também desen
 ## 🎓 Formação e Certificações
 
 ### 🎓 Formação Acadêmica
-- **Ciência de Dados** — Graduação · [Instituição] · Concluído
-- **Engenharia Mecânica** — Graduação · [Instituição] · Em andamento
+- **Ciência de Dados** — Graduação · [Cruzeiro do Sul Virtual] · Concluído
+- **Engenharia Mecânica** — Graduação · [UNIUNICA] · Em andamento
 - **Técnico em Mecânica** — Formação técnica · [Instituição] · Concluído
 
 ### 📜 Cursos e Certificações
