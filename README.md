@@ -21,8 +21,7 @@ Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, atu
 
 ### 🖨️ Impressão 3D & Engenharia
 ![3D Printing](https://img.shields.io/badge/Impressão%203D-FF5722?style=for-the-badge&logo=3d&logoColor=white)
-
-![Fusion](https://img.shields.io/badge/Fusion-EA7100?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion](https://img.shields.io/badge/Fusion-00599C?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 🧰 Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
