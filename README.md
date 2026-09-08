@@ -68,8 +68,8 @@ No empreendedorismo, lidero uma empresa de **impressão 3D**, onde também desen
 ## 🎓 Formação e Certificações
 
 ### 🎓 Formação Acadêmica
-- **Ciência de Dados** — Tecnólogo · Cruzeiro do Sul Virtual · Concluído
 - **Engenharia Mecânica** — Bacharelado · UNIUNICA · Em andamento
+- **Ciência de Dados** — Tecnólogo · Cruzeiro do Sul Virtual · Concluído
 - **Técnico em Mecânica** — Técnico · ETEC - Escola Técnica Estadual de São Paulo · Concluído
 
 ### 📜 Cursos e Certificações
