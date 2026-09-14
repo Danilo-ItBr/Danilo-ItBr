@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Danilo!
 
-**Analista de Dados** | **Power BI & DAX** | **Empresário de Impressão 3D** | **Estudante de Eng. Mecânica**
+**Analista de Dados** | **Empresário de Impressão 3D** | **Estudante de Eng. Mecânica**
 
 Formado em **Ciência de Dados** e com formação técnica em **Mecânica**, tenho **mais de 20 anos de experiência em Planejamento e Controle de Manutenção (PCM)** em empresas nacionais e multinacionais dos setores **alimentício, químico, petroquímico, mineração e cimenteiro** — com forte atuação em **gestão de KPIs** e **planejamento de Grandes Paradas de Manutenção**.
 
